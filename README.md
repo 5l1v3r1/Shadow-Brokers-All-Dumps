@@ -3,6 +3,8 @@ In case you don't know who they are: https://en.wikipedia.org/wiki/The_Shadow_Br
 
 Problem is I cannot find the GPG decryption key and they want alot of money for it.
 
+For instance the Dump #2 is $177,940 USD
+
 -------------------------------------------------------------------------------------------
 # Contents of September Message
 
